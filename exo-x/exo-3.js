@@ -5,6 +5,10 @@ qui va stocker 5 avions et afficher leur nom*/
 /*class Avion {
   constructeur(Marque, Modele, longueur, nbPlace, Reservoir, vitesse)*/
 
+ get Modele() {
+    return this._Modele;
+  }
+
 let zavions = [];
 
 
