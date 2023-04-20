@@ -1,0 +1,5 @@
+définiton nodeJs
+
+NodeJs c'est un logiciel open source,avec comme environnement d'exécution le Java Script depuis un serveur API.
+Il à comme commande de base :npm + verbe (install/uninstall/start...)
+
