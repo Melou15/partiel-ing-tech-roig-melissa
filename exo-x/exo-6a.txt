@@ -1,0 +1,2 @@
+Le backend (cf le coté obscure du dev) c'est la partie du devellopement web que l'on ne voit pas en tant qu'utilisateur, c'est à dire qu'il regroupe la base de données du site, le serveur, les différents scripts. 
+Il communique avec le frontend, partie visible des utilisayeurs.
